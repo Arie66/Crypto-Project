@@ -6,7 +6,7 @@ public class Test {
 
 		String input = "This is some \"really\" great. (Text)!?"; //"AAABBBCCC"; //"This is some \"really\" great. (Text)!?";
 		int shift = 0;
-		int a = 0;
+		int a = 2;
 		String txt = "";
 		String codedtxt;
 		
